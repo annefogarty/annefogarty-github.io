@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Anne Fogarty"
   pronouns         : # example: "she/her"  
-  bio              : "Economics PhD Student at the University of California, Berkeley"
+  bio              : "Economics PhD Student at University of California, Berkeley"
   uri              : # URL
   email            : "annefogarty@berkeley.edu" 
 
@@ -46,7 +46,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -223,85 +223,6 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-<<<<<<< HEAD
-<<<<<<< HEAD
-#  _posts
-=======
-  # _posts
->>>>>>> parent of 55af6ae (Update _config.yml)
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-<<<<<<< HEAD
- # _pages
-=======
-  # _pages
->>>>>>> parent of 55af6ae (Update _config.yml)
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-<<<<<<< HEAD
-#  _teaching
-=======
-  # _teaching
->>>>>>> parent of 55af6ae (Update _config.yml)
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-<<<<<<< HEAD
- # _publications
-=======
-  # _publications
->>>>>>> parent of 55af6ae (Update _config.yml)
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-<<<<<<< HEAD
- # _portfolio
-=======
-  # _portfolio
->>>>>>> parent of 55af6ae (Update _config.yml)
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-<<<<<<< HEAD
- # _talks
-=======
-  # _talks
->>>>>>> parent of 55af6ae (Update _config.yml)
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-=======
   # _posts
   - scope:
       path: ""
@@ -355,7 +276,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
->>>>>>> parent of ffaca2e (up)
 
 
 # Sass/SCSS
