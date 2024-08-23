@@ -24,9 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Anne Fogarty"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
-  location         : # "Earth"
-  employer         : # "Red Brick University"
+  bio              : "Economics PhD Student at the University of California, Berkeley"
   uri              : # URL
   email            : "annefogarty@berkeley.edu" 
 
