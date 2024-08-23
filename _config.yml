@@ -223,7 +223,11 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+<<<<<<< HEAD
 #  _posts
+=======
+  # _posts
+>>>>>>> parent of 55af6ae (Update _config.yml)
   - scope:
       path: ""
       type: posts
@@ -234,14 +238,22 @@ defaults:
       comments: true
       share: true
       related: true
+<<<<<<< HEAD
  # _pages
+=======
+  # _pages
+>>>>>>> parent of 55af6ae (Update _config.yml)
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
+<<<<<<< HEAD
 #  _teaching
+=======
+  # _teaching
+>>>>>>> parent of 55af6ae (Update _config.yml)
   - scope:
       path: ""
       type: teaching
@@ -250,7 +262,11 @@ defaults:
       author_profile: true
       share: true
       comments: true
+<<<<<<< HEAD
  # _publications
+=======
+  # _publications
+>>>>>>> parent of 55af6ae (Update _config.yml)
   - scope:
       path: ""
       type: publications
@@ -259,7 +275,11 @@ defaults:
       author_profile: true
       share: true
       comments: true
+<<<<<<< HEAD
  # _portfolio
+=======
+  # _portfolio
+>>>>>>> parent of 55af6ae (Update _config.yml)
   - scope:
       path: ""
       type: portfolio
@@ -268,7 +288,11 @@ defaults:
       author_profile: true
       share: true
       comment: true
+<<<<<<< HEAD
  # _talks
+=======
+  # _talks
+>>>>>>> parent of 55af6ae (Update _config.yml)
   - scope:
       path: ""
       type: talks
